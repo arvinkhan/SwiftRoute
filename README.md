@@ -1,3 +1,2 @@
 This is our GFG Project for smart Traffic Flow Control
-Team : Adil Aquil Ahmad
-Team Member: Arveen Khan.....
+
